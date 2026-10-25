@@ -1,0 +1,37 @@
+/* Design tokens: every colour, size and font used in the site lives here */
+:root {
+  --navy: #0b1f3a;
+  --navy-soft: #16335c;
+  --lime: #b8f04a;
+  --lime-dark: #8fcf1f;
+  --green: #15803d;
+  --green-soft: #e1f5e7;
+  --blue: #2563eb;
+  --blue-soft: #e2ecff;
+  --orange: #ea6a0a;
+  --orange-soft: #ffeadb;
+  --bg: #faf7f0;
+  --white: #ffffff;
+  --text: #1a2a40;
+  --muted: #5a6a80;
+  --border: #e6e0d2;
+  --danger: #c62828;
+
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 22px;
+  --shadow-sm: 0 1px 3px rgba(11, 31, 58, 0.08);
+  --shadow: 0 10px 28px rgba(11, 31, 58, 0.1);
+
+  /* Spacing scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2.5rem;
+  --space-6: 4rem;
+
+  --font-heading: "Poppins", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --container: 1160px;
+}

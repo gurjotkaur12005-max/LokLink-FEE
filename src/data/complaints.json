@@ -1,0 +1,308 @@
+[
+  {
+    "id": "LL-2026-1001",
+    "title": "Large pothole near the main market",
+    "category": "Roads",
+    "priority": "High",
+    "localityId": "l1",
+    "name": "Harpreet K.",
+    "status": "Resolved",
+    "date": "2026-08-12",
+    "description": "Deep pothole near the market entrance is dangerous for two-wheelers.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-08-12",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-08-15",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-08-18",
+        "note": "Work has been assigned and is in progress."
+      },
+      {
+        "status": "Resolved",
+        "date": "2026-08-21",
+        "note": "Issue marked as resolved."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1002",
+    "title": "Street light not working on 3rd lane",
+    "category": "Street Lights",
+    "priority": "Medium",
+    "localityId": "l2",
+    "name": "Simran B.",
+    "status": "In Progress",
+    "date": "2026-09-18",
+    "description": "Three street lights have been off for over a week and the lane is dark at night.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-09-18",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-09-21",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-09-24",
+        "note": "Work has been assigned and is in progress."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1003",
+    "title": "Irregular water supply in the morning",
+    "category": "Water Supply",
+    "priority": "High",
+    "localityId": "l3",
+    "name": "Gurpreet S.",
+    "status": "Under Review",
+    "date": "2026-10-02",
+    "description": "Water arrives very late and with low pressure for most of the week.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-02",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-10-05",
+        "note": "Complaint is being reviewed by the local office."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1004",
+    "title": "Garbage not collected for four days",
+    "category": "Sanitation",
+    "priority": "High",
+    "localityId": "l4",
+    "name": "Amandeep K.",
+    "status": "In Progress",
+    "date": "2026-10-05",
+    "description": "Garbage has piled up near the corner and is attracting stray animals.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-05",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-10-08",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-10-11",
+        "note": "Work has been assigned and is in progress."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1005",
+    "title": "Park gate broken and swings damaged",
+    "category": "Parks & Public Spaces",
+    "priority": "Low",
+    "localityId": "l8",
+    "name": "Neha R.",
+    "status": "Submitted",
+    "date": "2026-10-19",
+    "description": "The gate is broken and children's swings are unsafe to use.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-19",
+        "note": "Complaint submitted by the citizen."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1006",
+    "title": "Open drain near the primary school",
+    "category": "Sanitation",
+    "priority": "High",
+    "localityId": "l5",
+    "name": "Jaspreet M.",
+    "status": "Under Review",
+    "date": "2026-10-08",
+    "description": "An uncovered drain near the school gate is a safety risk for children.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-08",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-10-11",
+        "note": "Complaint is being reviewed by the local office."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1007",
+    "title": "Transformer sparking after rain",
+    "category": "Electricity",
+    "priority": "High",
+    "localityId": "l6",
+    "name": "Rohit V.",
+    "status": "Resolved",
+    "date": "2026-07-30",
+    "description": "The transformer sparks after heavy rain and the power cuts repeat.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-07-30",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-08-02",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-08-05",
+        "note": "Work has been assigned and is in progress."
+      },
+      {
+        "status": "Resolved",
+        "date": "2026-08-08",
+        "note": "Issue marked as resolved."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1008",
+    "title": "Village road full of mud and potholes",
+    "category": "Roads",
+    "priority": "Medium",
+    "localityId": "l7",
+    "name": "Balwinder S.",
+    "status": "Submitted",
+    "date": "2026-10-21",
+    "description": "The link road to the main road becomes impassable after rain.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-21",
+        "note": "Complaint submitted by the citizen."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1009",
+    "title": "Stray dog problem near the bus stand",
+    "category": "Public Safety",
+    "priority": "Medium",
+    "localityId": "l9",
+    "name": "Anita G.",
+    "status": "In Progress",
+    "date": "2026-09-25",
+    "description": "A group of stray dogs frightens pedestrians in the early morning.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-09-25",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-09-28",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-10-01",
+        "note": "Work has been assigned and is in progress."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1010",
+    "title": "Dispensary has no doctor in the afternoon",
+    "category": "Healthcare",
+    "priority": "Medium",
+    "localityId": "l10",
+    "name": "Pooja D.",
+    "status": "Under Review",
+    "date": "2026-10-12",
+    "description": "The local dispensary is often without a doctor after 1 PM.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-12",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-10-15",
+        "note": "Complaint is being reviewed by the local office."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1011",
+    "title": "Overflowing sewage on the main road",
+    "category": "Sanitation",
+    "priority": "High",
+    "localityId": "l2",
+    "name": "Karan T.",
+    "status": "Resolved",
+    "date": "2026-08-20",
+    "description": "Sewage was overflowing near a residential gate for several days.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-08-20",
+        "note": "Complaint submitted by the citizen."
+      },
+      {
+        "status": "Under Review",
+        "date": "2026-08-23",
+        "note": "Complaint is being reviewed by the local office."
+      },
+      {
+        "status": "In Progress",
+        "date": "2026-08-26",
+        "note": "Work has been assigned and is in progress."
+      },
+      {
+        "status": "Resolved",
+        "date": "2026-08-29",
+        "note": "Issue marked as resolved."
+      }
+    ]
+  },
+  {
+    "id": "LL-2026-1012",
+    "title": "Footpath blocked by parked vehicles",
+    "category": "Public Safety",
+    "priority": "Low",
+    "localityId": "l3",
+    "name": "Mehak A.",
+    "status": "Submitted",
+    "date": "2026-10-23",
+    "description": "Parked vehicles block the footpath, forcing people to walk on the road.",
+    "history": [
+      {
+        "status": "Submitted",
+        "date": "2026-10-23",
+        "note": "Complaint submitted by the citizen."
+      }
+    ]
+  }
+]
